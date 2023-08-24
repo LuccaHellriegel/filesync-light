@@ -1,0 +1,1 @@
+docker logs -f sync-client-typescript-container$CLIENT_NUMBER

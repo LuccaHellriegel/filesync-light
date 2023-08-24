@@ -1,0 +1,1 @@
+docker logs -f sync-server-container
